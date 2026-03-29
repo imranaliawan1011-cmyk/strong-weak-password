@@ -9,5 +9,3 @@ if (len(password) >= 8 and
     print("Strong Password ")
 else:
     print("Weak Password ")
-print("Done")
-print('Done2')
