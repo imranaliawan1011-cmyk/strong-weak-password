@@ -10,3 +10,4 @@ if (len(password) >= 8 and
 else:
     print("Weak Password ")
 print("Done")
+print('Done2')
